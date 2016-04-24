@@ -1,0 +1,29 @@
+name: Vacuus-Finium
+favicon: null
+layout_spectrum: 0.9148652623407543
+typography_spectrum: 0.9951798133552074
+title: Vacuus Finium Alternativo
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3150373848620802
+  lightness: 0.318040115525946
+  saturation: 0.3287687269039452
+  rhythmicContrast: 0.7361272203270346
+purpose: []
